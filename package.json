@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tsc index.ts --watch",
+    "package": "pkg -t node16-win index.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,13 +16,7 @@
   },
   "dependencies": {
     "csv-stringify": "^6.5.1",
-    "file-info": "file:"
-  },
-  "pkg": {
-    "scripts": "index.js",
-    "targets": [
-      "node200-win-x64"
-    ],
-    "outputPath": "dist"
+    "file-info": "file:",
+    "graceful-fs": "^4.2.11"
   }
 }

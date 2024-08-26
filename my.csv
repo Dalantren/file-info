@@ -1,11 +1,12 @@
-File Name,"Size, bytes","Size, MB","Size, GB"
-.git,0,0.00 Mb,0.00 Gb
-.gitignore,13,0.00 Mb,0.00 Gb
-index.js,1276,0.00 Mb,0.00 Gb
-index.ts,1063,0.00 Mb,0.00 Gb
-my.csv,616,0.00 Mb,0.00 Gb
-node_modules,0,0.00 Mb,0.00 Gb
-package-lock.json,1924,0.00 Mb,0.00 Gb
-package.json,371,0.00 Mb,0.00 Gb
-script.sh,68,0.00 Mb,0.00 Gb
-tsconfig.json,12269,0.01 Mb,0.00 Gb
+File Name,"Size, bytes","Size, kB","Size, MB","Size, GB"
+.git,0,0.00 kB,0.00 Mb,0.00 Gb
+.gitignore,13,0.01 kB,0.00 Mb,0.00 Gb
+index.js,1659,1.62 kB,0.00 Mb,0.00 Gb
+index.ts,1374,1.34 kB,0.00 Mb,0.00 Gb
+node_modules,0,0.00 kB,0.00 Mb,0.00 Gb
+package-lock.json,2296,2.24 kB,0.00 Mb,0.00 Gb
+package.json,509,0.50 kB,0.00 Mb,0.00 Gb
+script.sh,72,0.07 kB,0.00 Mb,0.00 Gb
+tsconfig.json,12267,11.98 kB,0.01 Mb,0.00 Gb
+
+Total,18190,17.76 kB,0.02 Mb,0.00 Gb
