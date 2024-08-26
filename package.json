@@ -1,0 +1,26 @@
+{
+  "name": "file-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "csv-stringify": "^6.5.1",
+    "file-info": "file:"
+  },
+  "pkg": {
+    "scripts": "index.js",
+    "targets": [
+      "node200-win-x64"
+    ],
+    "outputPath": "dist"
+  }
+}
